@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaitherh
+- 👋 Hi, I’m Kaither
 - 👀 I’m a perpetually recovering Denver Broncos fan, love lifting weights, and hanging out with my 2 awesome kids.
 - 🌱 I love to build home projects in Java.
 - 💞️ I’m looking to collaborate on all things GoFundMe related!
